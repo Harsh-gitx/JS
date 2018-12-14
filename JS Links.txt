@@ -1,0 +1,8 @@
+Basics - https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5
+
+Latest (ES6) --
+ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+ https://hackernoon.com/what-you-should-know-about-es6-arrays-34b2a166aaed
+ https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
+
+
